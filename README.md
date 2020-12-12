@@ -3,4 +3,4 @@
 
 My portfolio contains 70 local repositories in total:
 - 2 Sold products.
-- One published mobile software product.
+- 1 published mobile software product.
