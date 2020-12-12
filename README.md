@@ -6,4 +6,4 @@ My portfolio contains [50 ; ∞[ original local repositories in total :
   - ≈50% are public
   - ≈50% are private
 - 2 Sold products
-- 1 published mobile software product
+- 1 Published mobile software product
