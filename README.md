@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/sayfessyd/count.svg)
 
 My portfolio contains [70 ; ∞[ original local repositories in total :
