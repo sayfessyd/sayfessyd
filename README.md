@@ -4,5 +4,5 @@ My portfolio contains dozens of original repositories.
 - ≈30% are published on GitHub
   - ≈50% are public
   - ≈50% are private
-- 2 Sold products
-- 1 Published mobile software product
+- Sold products
+- Published mobile software product
