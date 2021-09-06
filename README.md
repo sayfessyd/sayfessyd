@@ -1,13 +1,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/sayfessyd/count.svg)
 
-My portfolio contains dozens of original repositories.
+📦 My portfolio contains dozens of original repositories.
 - ≈30% are published on GitHub
   - ≈50% are public
   - ≈50% are private
 - Sold products
 - Published mobile software product
 
-Projects and publications
+📃 Projects and publications
 
 - Lollipop | Lollipop is an image editor built using the latest HTML, CSS and JavaScript techniques and tools.
 - MessageMe | MessageMe is a social media platform, based on anonymous messages with all possible features.
