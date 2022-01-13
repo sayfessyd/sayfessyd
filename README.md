@@ -7,7 +7,7 @@
 
 📃 Notable Projects
 
-- Lollipop | An image editor built using the latest HTML, CSS and JavaScript techniques and tools.
+- Lollipop | An image editor built using the latest HTML, CSS and JavaScript techniques/tools.
 - MessageMe | A social media platform, based on anonymous messages with all possible features.
 - StreamCloud | A music streaming platform.
 - Specialone | Themes for content management systems.
