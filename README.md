@@ -14,6 +14,6 @@
 - Blockchain API | Blockchain modules to ensure the traceability of logs.
 - Promissory Notes Manager | A web application for promissory notes management.
 - Effectshop | A published mobile software product for image editing.
-- Loadwave | Create a video sharing web application with timed comments.
-- Pharma | Create a web application for the management of pharmaceutical products.
-- MVC Pattern Wrapper | Create an MVC development framework respecting PSR standards.
+- Loadwave | A video sharing web application with timed comments.
+- Pharma | A web application for the management of pharmaceutical products.
+- MVC Pattern Wrapper | An MVC development framework respecting PSR standards.
