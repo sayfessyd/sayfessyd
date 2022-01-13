@@ -6,7 +6,6 @@
   - ≈50% are private
 
 📃 Notable Projects
-
 - Lollipop | An image editor built using the latest HTML, CSS and JavaScript techniques/tools.
 - MessageMe | A social media platform, based on anonymous messages with all possible features.
 - StreamCloud | A music streaming platform.
@@ -16,4 +15,4 @@
 - Effectshop | A published mobile software product for image editing.
 - Loadwave | A video sharing web application with timed comments.
 - Pharma | A web application for the management of pharmaceutical products.
-- MVC Pattern Wrapper | An MVC development framework respecting PSR standards.
+- MVC Pattern Wrapper | An MVC framework respecting PSR standards.
