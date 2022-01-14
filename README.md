@@ -5,7 +5,7 @@
   - ≈50% are public
   - ≈50% are private
 
-📃 Notable projects timeline
+📅 Notable projects timeline
 ### 2022
 
 - In progress
