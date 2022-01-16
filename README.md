@@ -7,10 +7,17 @@ I'm <a href='https://twitter.com/sayfessyd'>@sayfessyd</a>, a frontend-focus sof
   - ≈50% are public
   - ≈50% are private
 
-📅 Notable projects timeline
+📅 Notable side projects timeline
 ### 2022
 
-- In progress
+1. Project: Assma (In progress) <br>
+   Description: Minimal JavaScript framework designed for educational purposes
+   
+1. Project: Airplane (In progress) <br>
+   Description: Visual installation wizard that supports the most popular open-source software unavailable as a service
+   
+1. Project: Lolly (In progress) <br>
+   Description: Image cropper based on open source technologies
 
 ### 2021
 
