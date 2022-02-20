@@ -2,15 +2,14 @@
 
 I'm <a href='https://twitter.com/sayfessyd'>@sayfessyd</a>, a frontend-focus software engineer. Worked on several software projects since June 2014 as an independent developer on a part-time basis. <br /><br /> I share about making software products through my articles; you can follow me on <a href='https://twitter.com/sayfessyd'>Twitter</a>, <a href='https://medium.com/@sayfessyd'>Medium</a>, and <a href='https://dev.to/sayfessyd'>DEV</a> for up-to-date content and updates about my progress. <br /><br /> In October 2015, I released my first <a href='https://www.producthunt.com/posts/lollipop-2-0'>baby</a> (i.e., product) which is a paid software for editing images. Outside of developing software, I enjoy playing the piano.
 
+📰 Publications
+1. Want to Discover How JavaScript Frameworks Work Behind the Scenes? [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83)
+1. Jamstack Architecture [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture)
 
 📦 Repositories
 - ≈30% are published on GitHub
   - ≈50% are public
   - ≈50% are private
-
-📰 Publications
-1. Want to Discover How JavaScript Frameworks Work Behind the Scenes? [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83)
-1. Jamstack Architecture [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture)
 
 🚧 Side projects
 ### 2022
