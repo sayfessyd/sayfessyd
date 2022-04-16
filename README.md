@@ -1,8 +1,11 @@
 I'm <a href='https://twitter.com/sayfessyd'>@sayfessyd</a>, a frontend-focus software engineer. Worked on several software projects since June 2014 as an independent developer on a part-time basis. <br /><br /> I share about making software products through my articles; you can follow me on <a href='https://twitter.com/sayfessyd'>Twitter</a>, <a href='https://medium.com/@sayfessyd'>Medium</a>, and <a href='https://dev.to/sayfessyd'>DEV</a> for up-to-date content and updates about my progress. <br /><br /> In October 2015, I released my first <a href='https://www.producthunt.com/posts/lollipop-2-0'>baby</a> (i.e., product) which is a paid software for editing images. Outside of developing software, I enjoy playing the piano.
 
 📰 Publications
-1. Want to Discover How JavaScript Frameworks Work Behind the Scenes? [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83)
-1. Jamstack Architecture [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture)
+1. <em>Log Management Module with the Blockchain Technology [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) - 19/06/2019</em>
+2. <em>Log Management Module with the Blockchain Technology (Slides) [🔗](https://speakerdeck.com/sayfessyd/log-management-module-blockchain-slides) - 23/06/2019</em>
+3. <em>Want to Discover How JavaScript Frameworks Work Behind the Scenes? [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83) - 15/06/2021</em>
+4. <em>Jamstack Architecture [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture) - 09/12/2021</em>
+5. <em>Basic rules of Hoisting in JavaScript [🔗](https://codebase.sayfessyd.com/tips/programming/2022/04/09/basic-rules-of-hoisting-in-javascript.html) - 09/04/2022</em>
 
 📦 Repositories
 - ≈30% are published on GitHub
@@ -10,15 +13,15 @@ I'm <a href='https://twitter.com/sayfessyd'>@sayfessyd</a>, a frontend-focus sof
   - ≈50% are private
 
 🚧 Side projects
-### 2022
+### In progress
 
-1. Project: Assma (In progress) <br>
+1. Project: Assma <br>
    Description: Minimal JavaScript framework designed for educational purposes
    
-1. Project: Airplane (In progress) <br>
+1. Project: Airplane <br>
    Description: Visual installation wizard that supports the most popular open-source software unavailable as a service
    
-1. Project: Lolly (In progress) <br>
+1. Project: Lolly <br>
    Description: Image cropper based on open source technologies
 
 ### 2021
