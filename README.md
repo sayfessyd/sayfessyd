@@ -1,4 +1,5 @@
-A frontend-focus software engineer. I share about making software products through my articles; you can follow me on <a href='https://indieweb.social/web/@sayfessyd'>Mastodon</a>, <a href='https://medium.com/@sayfessyd'>Medium</a>, and <a href='https://dev.to/sayfessyd'>DEV</a> for up-to-date content and updates about my progress. In October 2015, I released my first <a href='https://www.producthunt.com/posts/lollipop-2-0'>baby</a> (i.e., product) which is a paid software for editing images. Outside of developing software, I enjoy playing the piano.
+👥 Introduction
+- A frontend-focus software engineer. I share about making software products through my articles; you can follow me on <a href='https://indieweb.social/web/@sayfessyd'>Mastodon</a>, <a href='https://medium.com/@sayfessyd'>Medium</a>, and <a href='https://dev.to/sayfessyd'>DEV</a> for up-to-date content and updates about my progress. In October 2015, I released my first <a href='https://www.producthunt.com/posts/lollipop-2-0'>baby</a> (i.e., product) which is a paid software for editing images. Outside of developing software, I enjoy playing the piano.
 
 📰 Publications
 1. <em>Log Management Module with the Blockchain Technology [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) - 19/06/2019</em>
