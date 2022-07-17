@@ -1,12 +1,12 @@
 👥 Introduction
-- A frontend-focus software engineer. I share about making software products through my articles; you can follow me on <a href='https://indieweb.social/web/@sayfessyd'>Mastodon</a>, <a href='https://medium.com/@sayfessyd'>Medium</a>, and <a href='https://dev.to/sayfessyd'>DEV</a> for up-to-date content and updates about my progress. In October 2015, I released my first <a href='https://www.producthunt.com/posts/lollipop-2-0'>baby</a> (i.e., product) which is a paid software for editing images. Outside of developing software, I enjoy playing the piano.
+<p>A frontend-focus software engineer. I share about making software products through my articles; you can follow me on <a href='https://indieweb.social/web/@sayfessyd'>Mastodon</a>, <a href='https://medium.com/@sayfessyd'>Medium</a>, and <a href='https://dev.to/sayfessyd'>DEV</a> for up-to-date content and updates about my progress. In October 2015, I released my first <a href='https://www.producthunt.com/posts/lollipop-2-0'>baby</a> (i.e., product) which is a paid software for editing images. Outside of developing software, I enjoy playing the piano.</p>
 
 📰 Publications
 1. <em>Log Management Module with the Blockchain Technology [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) - 19/06/2019</em>
 2. <em>Log Management Module with the Blockchain Technology (Slides) [🔗](https://speakerdeck.com/sayfessyd/log-management-module-blockchain-slides) - 23/06/2019</em>
 3. <em>Want to Discover How JavaScript Frameworks Work Behind the Scenes? [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83) - 15/06/2021</em>
 4. <em>Jamstack Architecture [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture) - 09/12/2021</em>
-5. <em>Basic rules of Hoisting in JavaScript [🔗](https://codebase.sayfessyd.com/tips/programming/2022/04/09/basic-rules-of-hoisting-in-javascript.html) - 09/04/2022</em>
+5. <em>Basic Rules of Hoisting in JavaScript [🔗](https://codebase.sayfessyd.com/tips/programming/2022/04/09/basic-rules-of-hoisting-in-javascript.html) - 09/04/2022</em>
 
 📦 Repositories
 - ≈30% are published on GitHub
