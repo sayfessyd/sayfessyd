@@ -17,8 +17,8 @@
 ### In progress
 
 - <a href="https://www.assmajs.com">Assma</a>: Minimal JavaScript framework designed for educational purposes
+- <a href="https://www.piecex.com/source-code/Pixel-Image-Cropper-4896">Pixel</a>: Image cropper based on open source technologies
 - Airplane: Visual installation wizard that supports the most popular open-source software unavailable as a service
-- Lolly: Image cropper based on open source technologies
 
 ### 2021 - 2019
 
