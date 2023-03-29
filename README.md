@@ -29,7 +29,7 @@
 ### 2018 - 2016
 
 - <a href="https://codecanyon.net/item/messageme-laravel-anonymous-social-media-script/22280893">MessageMe</a>: Social media platform, based on anonymous messages with all possible features
-- <a href="https://codecanyon.net/item/lollipop-image-editor/12957420">Lollipop</a>: Image editor built using the latest HTML, CSS and JavaScript techniques/tools
+- <a href="https://codecanyon.net/item/lollipop-image-editor/12957420">Lollipop</a>: Image editor built with the latest HTML, CSS and JavaScript tools
 - <a href="https://github.com/sayfessyd/promissory-notes-manager">Promissory Notes Manager</a>: Web application for promissory notes management
 
 ### 2015
