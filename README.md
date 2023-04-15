@@ -41,10 +41,6 @@
 - <a href="https://github.com/sayfessyd/loadwave">Loadwave</a>: Video sharing web application with timed comments
 - <a href="https://github.com/sayfessyd/pharma">Pharma</a>: Web application for the management of pharmaceutical products
 
-### 2014
-
-- <a href="https://github.com/sayfessyd/mvc-pattern-wrapper">MVC Pattern Wrapper</a>: MVC framework based on PSR standards
-
 
 
 
