@@ -16,7 +16,7 @@
 🚧 Side projects
 ### In progress
 
-- <a href="https://www.assmajs.com">Assma</a>: Minimal JavaScript framework designed for educational purposes
+- <a href="https://github.com/assmajs">Assma</a>: Minimal JavaScript framework designed for educational purposes
 
 ### 2023 - 2021
 
