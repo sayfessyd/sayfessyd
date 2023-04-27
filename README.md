@@ -21,7 +21,7 @@
 ### 2023 - 2021
 
 - 🔒 Airplane: Visual installation wizard that supports the most popular open-source software unavailable as a service
-- 🔒 Pixel: Image cropper based on open source technologies
+- <a href="https://pixel9.surge.sh">Pixel</a>: Image cropper based on open source technologies
 
 ### 2021 - 2019
 
