@@ -20,14 +20,14 @@
 
 ### 2023 - 2021
 
-- Airplane: Visual installation wizard that supports the most popular open-source software unavailable as a service
-- Pixel: Image cropper based on open source technologies
+- 🔒 Airplane: Visual installation wizard that supports the most popular open-source software unavailable as a service
+- 🔒 Pixel: Image cropper based on open source technologies
 
 ### 2021 - 2019
 
 - <a href="https://github.com/sayfessyd/StreamCloud">StreamCloud</a>: Music streaming platform
-- <a href="https://github.com/sayfessyd/SpecialOne">SpecialOne</a>: Graphic themes for CMS
-- <a href="https://github.com/sayfessyd/blockchain-api">Blockchain API</a>: Blockchain modules to ensure the traceability of logs
+- <a href="https://github.com/sayfessyd/SpecialOne">SpecialOne</a>: WooCommerce theme prototype
+- 🔒 <a href="https://github.com/sayfessyd/blockchain-api">Blockchain API</a>: Blockchain modules to ensure the traceability of logs
 
 ### 2018 - 2016
 
