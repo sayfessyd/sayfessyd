@@ -21,7 +21,7 @@
 ### 2023 - 2021
 
 - Airplane: Visual installation wizard that supports the most popular open-source software unavailable as a service
-- <a href="https://www.piecex.com/source-code/Pixel-Image-Cropper-4896">Pixel</a>: Image cropper based on open source technologies
+- Pixel: Image cropper based on open source technologies
 
 ### 2021 - 2019
 
