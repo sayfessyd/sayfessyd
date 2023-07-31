@@ -26,7 +26,7 @@
 ### 2021 - 2019
 
 - 🔒 <a href="https://github.com/sayfessyd/StreamCloud">StreamCloud</a>: Music streaming platform
-- <a href="https://github.com/sayfessyd/SpecialOne">SpecialOne</a>: WooCommerce theme prototype
+- 🔒 <a href="https://github.com/sayfessyd/SpecialOne">SpecialOne</a>: WooCommerce theme prototype
 - 🔒 <a href="https://github.com/sayfessyd/blockchain-api">Blockchain API</a>: Blockchain modules to ensure the traceability of logs
 
 ### 2018 - 2016
