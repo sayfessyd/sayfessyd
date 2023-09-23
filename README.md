@@ -1,5 +1,5 @@
 👥 Introduction
-<p>Frontend-focus software engineer with more than seven years of development experience. Possesses a strong passion for creating intuitive web applications that deliver a good user experience and seamlessly integrate with back-end technologies. Worked on challenging projects and tackled technical tasks in HTML, CSS, JavaScript, Typescript, Angular and Vue.js.</p>
+<p>Frontend-focus software engineer with more than seven years of development experience. Possesses a strong passion for creating intuitive web applications that deliver a good user experience and seamlessly integrate with back-end technologies. Worked on challenging projects and tackled technical tasks.</p>
 
 📰 Publications
 1. <em>Log Management Module with the Blockchain Technology [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) - 19/06/2019</em>
