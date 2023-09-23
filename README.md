@@ -1,5 +1,5 @@
 👥 Introduction
-<p>As a frontend-focus software engineer, I possess a strong passion for creating intuitive and visually stunning web applications that deliver an exceptional user experience. With expertise in HTML, CSS, JavaScript, and a range of front-end frameworks, I have the ability to craft responsive and scalable user interfaces that seamlessly integrate with backend technologies. I enjoy working on challenging projects and tackling technical tasks that push me to think creatively with a passion for understanding how technologies can be leveraged to optimize development processes and streamline workflows.</p>
+<p>Frontend-focus software engineer with more than seven years of development experience. Possesses a strong passion for creating intuitive web applications that deliver a good user experience and seamlessly integrate with back-end technologies. Worked on challenging projects and tackled technical tasks in HTML, CSS, JavaScript, Typescript, Angular and Vue.js.</p>
 
 📰 Publications
 1. <em>Log Management Module with the Blockchain Technology [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) - 19/06/2019</em>
