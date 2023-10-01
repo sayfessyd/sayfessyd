@@ -1,47 +1,18 @@
-📰 Publications
-1. <em>Log Management Module with the Blockchain Technology [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) - 19/06/2019</em>
-2. <em>Log Management Module with the Blockchain Technology (Slides) [🔗](https://speakerdeck.com/sayfessyd/log-management-module-blockchain-slides) - 23/06/2019</em>
-3. <em>Want to Discover How JavaScript Frameworks Work Behind the Scenes? [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83) - 15/06/2021</em>
-4. <em>Jamstack Architecture [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture) - 09/12/2021</em>
-5. <em>Discover: JavaScript Frameworks Behind the Scenes [🔗](https://www.educative.io/courses/discover-javascript-frameworks-behind-scenes) - 13/09/2022</em>
-
-📦 Repositories
-- ≈30% are published on GitHub
-  - ≈50% are public
-  - ≈50% are private
-
-🚧 Side projects
-### In progress
-
-- <a href="https://github.com/assmajs">Assma</a>: Minimal JavaScript framework designed for educational purposes
-
-### 2023 - 2021
-
-- 🔒 Airplane: Visual installation wizard that supports the most popular open-source software unavailable as a service
-- <a href="https://pixel9.surge.sh">Pixel</a>: Image cropper based on open source technologies
-
-### 2021 - 2019
-
-- 🔒 <a href="https://github.com/sayfessyd/StreamCloud">StreamCloud</a>: Music streaming platform
-- 🔒 <a href="https://github.com/sayfessyd/SpecialOne">SpecialOne</a>: WooCommerce theme prototype
-- 🔒 <a href="https://github.com/sayfessyd/blockchain-api">Blockchain API</a>: Blockchain modules to ensure the traceability of logs
-
-### 2018 - 2016
-
-- <a href="https://codecanyon.net/item/messageme-laravel-anonymous-social-media-script/22280893">MessageMe</a>: Social media platform, based on anonymous messages with all possible features
-- <a href="https://codecanyon.net/item/lollipop-image-editor/12957420">Lollipop</a>: Image editor built with the latest HTML, CSS and JavaScript tools
-- <a href="https://github.com/sayfessyd/promissory-notes-manager">Promissory Notes Manager</a>: Web application for promissory notes management
-
-### 2015
-
-- <a href="https://play.google.com/store/apps/details?id=net.specialapp.effectshop">Effectshop</a>: Published mobile software product for image editing
-- <a href="https://github.com/sayfessyd/loadwave">Loadwave</a>: Video sharing web application with timed comments
-- <a href="https://github.com/sayfessyd/pharma">Pharma</a>: Web application for the management of pharmaceutical products
-
-
-
-
-
-
-
-
+| 📦 Artifacts (📰 Publications + 🚧 Side projects) | Link | Date | Featured | Records |
+|------|:------:|------|:------:|:------:|
+| 📰 <em>Discover: JavaScript Frameworks Behind the Scenes</em> | [🔗](https://www.educative.io/courses/discover-javascript-frameworks-behind-scenes) | 13/09/2022 | ⭐ | Over $100
+| 🚧 <em>Social Media Platform based on Anonymous Messages</em> | [🔗](https://codecanyon.net/item/messageme-laravel-anonymous-social-media-script/22280893) | 02/08/2018 | ⭐ | Over $950
+| 🚧 <em>Web Plugin for Image Editing| [🔗](https://codecanyon.net/item/lollipop-image-editor/12957420) | 22/10/2015 | ⭐ | Over $4500
+| 🚧 <em>Minimal JavaScript framework designed for educational purposes</em> | [🔗](https://github.com/assmajs) | In progress |
+| 📰 <em>Jamstack Architecture</em> | [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture) | 09/12/2021 |
+| 🚧 <em>Image cropping tool</em> | [🔗](https://pixel9.surge.sh) | Summer 2021 |
+| 📰 <em>Want to Discover How JavaScript Frameworks Work Behind the Scenes?</em> | [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83) | 15/06/2021 | | Over 100 👏
+| 🚧 🔒 <em>Music streaming platform</em> | [🔗](https://github.com/sayfessyd/StreamCloud) | Summer 2020 |
+| 🚧 🔒 <em>WooCommerce theme prototype</em> | [🔗](https://github.com/sayfessyd/SpecialOne) | Autumn 2019 |
+| 🚧 🔒 <em>Blockchain modules to ensure the traceability of logs</em> | [🔗](https://github.com/sayfessyd/blockchain-api) | 23/06/2019 |
+| 📰 <em>Log Management Module with the Blockchain Technology (Slides)</em> | [🔗](https://speakerdeck.com/sayfessyd/log-management-module-blockchain-slides) | 23/06/2019 |
+| 📰 <em>Log Management Module with the Blockchain Technology</em> | [🔗](https://speakerdeck.com/sayfessyd/log-management-module-with-the-blockchain-technology) | 19/06/2019 |
+| 🚧 <em>Web application for promissory notes management</em> | [🔗](https://github.com/sayfessyd/promissory-notes-manager) | 23/05/2016 |
+| 🚧 <em>Video Sharing Web Application with Timed Comments</em> | [🔗](https://www.producthunt.com/products/loadwave) | 12/04/2016 | | 8 ⬆️
+| 🚧 <em>Mobile Application for Image Editing</em> | [🔗](https://play.google.com/store/apps/details?id=net.specialapp.effectshop) | 03/09/2015 | | Over 10K 📲
+| 🚧 <em>Web Application managing Pharmaceutical Products</em> | [🔗](https://github.com/sayfessyd/pharma) | 01/04/2015 |
