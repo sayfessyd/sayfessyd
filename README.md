@@ -16,3 +16,7 @@
 | 🚧 <em>Video Sharing Web Application with Timed Comments</em> | [🔗](https://www.producthunt.com/products/loadwave) | 12/04/2016 | | 8 ⬆️
 | 🚧 <em>Hybrid Mobile Application for Image Editing</em> | [🔗](https://play.google.com/store/apps/details?id=net.specialapp.effectshop) | 03/09/2015 | | Over 10K 📲
 | 🚧 <em>Web Application managing Pharmaceutical Products</em> | | 01/04/2015 |
+
+PS:
+- 1-week work at least for Publications <br>
+- 1-month work at least for Side projects
