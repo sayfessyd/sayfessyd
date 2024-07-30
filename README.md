@@ -5,7 +5,7 @@
 | 🚧 <em>Web Plugin for Image Editing| [🔗](https://codecanyon.net/item/lollipop-image-editor/12957420) | 22/10/2015 | ⭐ | Over $4500
 | 🚧 <em>Minimal JavaScript Framework designed for Educational purposes</em> | [🔗](https://github.com/assmajs) | In progress |
 | 📰 <em>Jamstack Architecture</em> | [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture) | 09/12/2021 |
-| 🚧 <em>Web Tool for Image Cropping</em> | [🔗](https://pixel9.surge.sh) | Summer 2021 |
+| 🚧 <em>Image Cropping tool for Chrome</em> | [🔗](https://chromewebstore.google.com/detail/cropmate/enjnlbkelbpmnciacebdehlnepedlhlm) | Summer 2021 |
 | 📰 <em>Want to Discover How JavaScript Frameworks Work Behind the Scenes?</em> | [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83) | 15/06/2021 | | Over 100 👏
 | 🚧 <em>Music Streaming Platform</em> | | Summer 2020 |
 | 🚧 <em>Theme Prototype for WooCommerce</em> | | Autumn 2019 |
