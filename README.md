@@ -1,5 +1,6 @@
 | 📦 Artifacts (📰 Publications + 🚧 Side projects) | Link | Date | Featured | Records |
 |------|:------:|------|:------:|:------:|
+| 📰 <em>Visual Installation Wizard with Ansible, PHP and WebSockets</em> | [🔗](https://www.educative.io/projects/visual-installation-wizard-with-ansible-php-and-websockets) | 21/08/2024 | ⭐ | Over $2500
 | 📰 <em>Discover: JavaScript Frameworks Behind the Scenes</em> | [🔗](https://www.educative.io/courses/discover-javascript-frameworks-behind-scenes) | 13/09/2022 | ⭐ | Over $100
 | 🚧 <em>Social Media Platform based on Anonymous Messages</em> | [🔗](https://codecanyon.net/item/messageme-laravel-anonymous-social-media-script/22280893) | 02/08/2018 | ⭐ | Over $950
 | 🚧 <em>Web Plugin for Image Editing| [🔗](https://codecanyon.net/item/lollipop-image-editor/12957420) | 22/10/2015 | ⭐ | Over $4500
