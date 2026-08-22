@@ -4,7 +4,7 @@
 | 📰 <em>Discover: JavaScript Frameworks Behind the Scenes</em> | [🔗](https://www.educative.io/courses/discover-javascript-frameworks-behind-scenes) | 13/09/2022 | ⭐ | Over $100
 | 🚧 <em>Social Media Platform based on Anonymous Messages</em> | [🔗](https://codecanyon.net/item/messageme-laravel-anonymous-social-media-script/22280893) | 02/08/2018 | ⭐ | Over $950
 | 🚧 <em>Web Plugin for Image Editing| [🔗](https://codecanyon.net/item/lollipop-image-editor/12957420) | 22/10/2015 | ⭐ | Over $4500
-| 🚧 <em>Minimal JavaScript Framework designed for Educational purposes</em> | [🔗](https://github.com/assmajs) | In progress |
+| 🚧 <em>Minimal JavaScript Framework designed for Educational purposes</em> | [🔗](https://github.com/sayfessyd/luma) | In progress |
 | 🚧 <em>Image Cropping tool for Chrome</em> | [🔗](https://chromewebstore.google.com/detail/cropmate/enjnlbkelbpmnciacebdehlnepedlhlm) | 04/07/2024 |
 | 📰 <em>Jamstack Architecture</em> | [🔗](https://speakerdeck.com/sayfessyd/jamstack-architecture) | 09/12/2021 |
 | 📰 <em>Want to Discover How JavaScript Frameworks Work Behind the Scenes?</em> | [🔗](https://medium.com/javascript-in-plain-english/want-to-discover-how-javascript-frameworks-work-behind-the-scenes-bc93cf602b83) | 15/06/2021 | | Over 100 👏
